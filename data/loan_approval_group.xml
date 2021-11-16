@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data>
+
+        <record id="loan_approval_group_id" model="res.groups">
+            <field name="name">Loan Approval</field>
+        </record>
+
+    </data>
+</odoo>
